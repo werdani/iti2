@@ -1,1 +1,5 @@
-hello from test
+hello:
+to remove them lochally :-
+git branch -d test      
+to remove them remotly :-
+git branch :test
